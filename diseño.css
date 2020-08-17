@@ -1,0 +1,27 @@
+header{
+  background: rgb(196,220,207);
+  color: white;
+}
+.nombre p{
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.primero,.segundo,.tercero{
+  font-size: 1.2em;
+	height: 375px;
+}
+.segundo{
+  background: rgb(196,249,255);
+}
+.primero{
+  background: rgb(255,252,221);
+}
+.tercero{
+  background: rgb(235,231,245);
+}
+.fecha{
+    background: rgb(77,77,77);
+    color: white;
+    height: 50px;
+}
